@@ -21,11 +21,20 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
 
+gem "compass-rails", github: "Compass/compass-rails", branch: "master"
+
+gem 'zurb-foundation'
+
+#application layout gem
+gem 'rails_layout'
+
 # receive and parse e-mails with griddler. Read more: https://github.com/thoughtbot/griddler
 gem 'griddler'
 
 # gem to config environment variables
 gem 'figaro'
+
+gem 'simple_form'
 
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
