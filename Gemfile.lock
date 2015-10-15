@@ -82,6 +82,7 @@ GEM
     griddler (1.2.1)
       htmlentities
       rails (>= 3.2.0)
+    high_voltage (2.4.0)
     hike (1.2.3)
     htmlentities (4.3.4)
     i18n (0.7.0)
@@ -192,6 +193,7 @@ DEPENDENCIES
   compass-rails!
   figaro
   griddler
+  high_voltage
   jbuilder (~> 2.0)
   jquery-rails
   rails (= 4.2.4)

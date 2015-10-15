@@ -22,8 +22,10 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 
 gem "compass-rails", github: "Compass/compass-rails", branch: "master"
-
+# Zurb FrontEnd Framework
 gem 'zurb-foundation'
+
+gem 'high_voltage'
 
 #application layout gem
 gem 'rails_layout'
